@@ -124,16 +124,7 @@ https://github.com/user-attachments/assets/bb23407a-807f-4fa3-aa5d-48b9aeb5327b
 - Integrate with official wildlife and conservation databases for broader impact
 
 
-  ## Team Contibution
-
- **Team Name** : ModelMinds
- 
- **Team Members**
- - Kashish Diwakar
- - Shreya Bharti
- - Prajjwal Katiyar
- - Riya Katiyar
-   
+  
   
 
 
