@@ -54,6 +54,7 @@ No human needs to be there. No animal gets disturbed. It just listens.
 - Keras (Model API)
 - FastAPI (REST API Server)
 - BirtNet (Pre-trained model)
+
   
 ***
 
