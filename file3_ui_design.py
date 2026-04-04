@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Theme 
-PALETTE = {
+PALETTE ={
     "bg": "#0d1f0e",
     "surface": "#122614",
     "surface2": "#1a3320",
