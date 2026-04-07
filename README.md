@@ -31,6 +31,7 @@ No human needs to be there. No animal gets disturbed. It just listens.
 - Continuous 24/7 recording
 - Data stored locally on device (secure, no data loss if offline)
 
+
 **Intelligence Layer**
 - TensorFlow Lite model runs directly on the device
 - Classifies bats, frogs, birds, insects, and more from their sounds
