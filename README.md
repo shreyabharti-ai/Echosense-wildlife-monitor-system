@@ -98,6 +98,7 @@ The system is designed to run continuously — no constant supervision required.
 ## Add Demo Screenshot and Video
 **how its interface look**
 
+
 **Image_1**
 
 ![image alt](https://github.com/WTC-Group-4/wtc-round-2-group-4-modelminds/blob/f5c19dcc18dde334e67d8a583770cb617eba7d48/screeshot_1.png)
