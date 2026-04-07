@@ -109,6 +109,7 @@ The system is designed to run continuously — no constant supervision required.
 
 ![image alt](https://github.com/WTC-Group-4/wtc-round-2-group-4-modelminds/blob/f5c19dcc18dde334e67d8a583770cb617eba7d48/Screenshot_3.png)
 
+
 **DEMO VIDEO**
 https://github.com/user-attachments/assets/bb23407a-807f-4fa3-aa5d-48b9aeb5327b
 
