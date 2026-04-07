@@ -115,6 +115,7 @@ https://github.com/user-attachments/assets/bb23407a-807f-4fa3-aa5d-48b9aeb5327b
 
 ## Future Improvements
 
+
 **there are some feature which we would like to improve in future for betterment:**
 
 - Expand the ML model to recognize a wider range of species
