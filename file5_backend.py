@@ -25,6 +25,7 @@ N_MFCC = 40
 def load_echosense_model(model_dir="echosense_model"):
     global _MODELS, _SCALER, _LE, _READY
 
+    
     model_path = Path(model_dir)
     required = [
         "RandomForest.pkl",
