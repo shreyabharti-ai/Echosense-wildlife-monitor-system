@@ -6,6 +6,7 @@ import requests
 from pathlib import Path
 from collections import defaultdict
 
+
 FREESOUND_API_KEY = "YOUR_FREESOUND_API_KEY"   
 SAMPLE_RATE       = 22050
 CLIP_DURATION     = 5.0
