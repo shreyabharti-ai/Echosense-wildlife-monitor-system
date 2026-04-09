@@ -65,6 +65,7 @@ def is_model_ready():
     return _READY
 
 
+
 def _load_audio(source):
     try:
         if isinstance(source, (str, Path)):
