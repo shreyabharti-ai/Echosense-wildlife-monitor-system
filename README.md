@@ -6,6 +6,7 @@ A biodiversity monitoring system that listens to forests so researchers don't ha
 
 ## What's the Problem?
 
+
 1. Wildlife monitoring is broken. Traditional surveys are expensive, happen once in a while, and cover tiny areas.
 2. Camera traps miss insects, frogs, and anything that moves at night. 
 3. Satellite images show trees — not the animals living in them. And there's no system that monitors ecosystems                 continuously, at scale, without disturbing the habitat.
