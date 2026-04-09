@@ -35,6 +35,7 @@ def load_echosense_model(model_dir="echosense_model"):
         "label_encoder.pkl"
     ]
 
+    
     missing = [f for f in required if not (model_path / f).exists()]
     if missing:
         _READY = False
