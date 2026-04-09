@@ -22,6 +22,7 @@ These devices run 24/7, record sounds, classify animals by their calls using an 
 
 No human needs to be there. No animal gets disturbed. It just listens.
 
+
 ***
 
 ## How It Works
